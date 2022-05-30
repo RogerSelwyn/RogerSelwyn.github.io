@@ -5,7 +5,7 @@ nav_order: 1
 
 # RTP Enterprises
 
-Ever since my days in school, I have gone by the acronym RTP and where I develop for other prople I will tend to mark my work with `RTP Enterprises`. Back in school that stood for 'Rog the Programmer', where I started my computing career writing basic on Commodore PETs. Since then I spent a couple years hacking around on VAX and Prime computers before finding a career in IT initially doing programming at Rolls-Royce Aerospace Engines.
+Ever since my days in school, I have gone by the acronym RTP and where I develop for other prople I will tend to mark my work with `RTP Enterprises`. Back in school, where I started playing with computers writing basic on Commodore PETs, that stood for 'Rog the Programmer'. After that I spent a couple years hacking around on VAX and Prime computers before finding a career in IT, initially doing programming at Rolls-Royce Aerospace Engines.
 
 To say I get enjoyment from messing around on computers is an understatement. I've always wanted to try and make them do as much as I can do with my variable skills, most of which is self taught. The pleasure I get in getting something complex to work is immense and acts as a real form of relaxation.
 
