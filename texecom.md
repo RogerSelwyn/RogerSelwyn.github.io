@@ -155,7 +155,7 @@ alarm_control_panel:
       texecom:
         name: Texecom
         value_template: >
-          {% if states('binary_sensor.alarm') == 'on' %}
+          {% raw %}{% if states('binary_sensor.alarm') == 'on' %}
             triggered
           {% elif states('binary_sensor.full_armed') == 'off' %}
             armed_away
@@ -163,7 +163,7 @@ alarm_control_panel:
             armed_home
           {% else %}
             disarmed
-          {% endif %}
+          {% endif %}{% endraw %}
         arm_away:
           service: switch.turn_on
           target:
