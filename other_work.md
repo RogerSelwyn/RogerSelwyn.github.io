@@ -1,5 +1,6 @@
 ---
 title: Other Work
+nav_order: 4
 ---
 
 # Other Work
