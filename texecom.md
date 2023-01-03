@@ -154,6 +154,7 @@ alarm_control_panel:
     panels:
       texecom:
         name: Texecom
+        unique_id: texecom
         value_template: >
           {% raw %}{% if states('binary_sensor.alarm') == 'on' %}
             triggered
