@@ -76,7 +76,7 @@ As above, connect OUT connector to Interface IN connector.
 ![Full Wiring](images/wiring.png)
 
 ### Texecom Programming
-I did this all in Wintex, you can configure them on the board, but Wintex is just easier. Any sections of each page that I didn't configure I haven't mention below. Don't forget to read from the board before you make a change and send back (the current page) after you make teh change.
+I did this all in Wintex, you can configure them on the board, but Wintex is just easier. Any sections of each page that I didn't configure I haven't mention below. Don't forget to read from the board before you make a change and send back (the current page) after you make the change.
 #### Wired Zones
 Really nothing to do here, as long as you have wired correctly and set the potentiometers correctly, they should work.
 
