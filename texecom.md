@@ -15,7 +15,7 @@ For my set-up, I'm using a Texecom Premier Elite 12-W. This has a number of pre-
 For this setup, I wanted to retain the existing alarm functionality, but add on the ability to manage from HA, which is why I went for the interface kit, rather the conversion kit which would have replaced the existing panel but not been able to utilise the existing ricochet devices. 
 
 ## Baseline
-For the purposes of this write I'll talk to the 48-W (since that is what I have an image for) and the Interface kit with the base 6 zones.
+For the purposes of this write up I'll talk to the 48-W (since that is what I have an image for) and the Interface kit with the base 6 zones.
 
 ## Konnected Kit
 The kit comes with everything you need, and can be used to support zones in multiples of 6:
