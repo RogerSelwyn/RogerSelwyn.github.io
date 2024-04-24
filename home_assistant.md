@@ -11,6 +11,7 @@ I currently look after several integrations. These were initially developed by o
 - Office 365 Integration for Home Assistant - [GitHub](https://github.com/RogerSelwyn/O365-HomeAssistant) - [Documentation](https://rogerselwyn.github.io/O365-HomeAssistant/)
 - Sky Hub - [GitHub](https://github.com/home-assistant/core/tree/dev/homeassistant/components/sky_hub) - [Documentation](https://www.home-assistant.io/integrations/sky_hub/)
 - AICO HomeLINK - [GitHub](https://github.com/RogerSelwyn/AICO_HomeLINK) - [Documentation](https://rogerselwyn.github.io/AICO_HomeLINK/)
+- MQTT DiscoveryStream Alt - [GitHub](https://github.com/RogerSelwyn/mqtt_discoverystream_ha)
 
 Also, I have created the API libraries that underpin the integrations:
 - pyskyqremote - Used by Sky Q component for Home Assistant - [GitHub](https://github.com/RogerSelwyn/skyq_remote)
