@@ -53,7 +53,7 @@ You can use either the Digicom Outputs at item 3, or the Panels Outputs at item 
 
 When you trigger the programmed item, the light should go out.
 
-These outputs by default get pulled low when triggered, so are at 0V when unprogrammed, So for these when they are not configured on the panel, they need the potentiometer to be just off. The video indicates they should be just on, but I found this to be incorrect. In any case, you can invert this when programming the panel.
+These outputs by default get pulled low when triggered, and are at 0V when unprogrammed. So for these when they are not configured on the panel, they need the potentiometer to be just off. The video indicates they should be just on, but I found this to be incorrect. In any case, you can invert this when programming the panel.
 
 You can actually programme them to trigger on or off, and then just respond appropriately in Home Assistant, it's really up to you. I decided I would have all the lights on the interface board be in an On state when nothing was triggered and the Keyswitch was off.
 
