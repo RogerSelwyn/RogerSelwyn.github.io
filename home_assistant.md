@@ -5,7 +5,7 @@ nav_order: 2
 
 # Home Assistant
 
-I currently look after several integrations. These were initially developed by others, but then other priorities took over, so I've taken them on to keep them alive:
+I currently look after several integrations. Some of these were initially developed by others, but then other priorities took over, so I've taken them on to keep them alive. Others I have created from scratch:
 
 - AICO HomeLINK - [GitHub](https://github.com/RogerSelwyn/AICO_HomeLINK) - [Documentation](https://rogerselwyn.github.io/AICO_HomeLINK/) - [![GitHub release](https://img.shields.io/github/v/release/RogerSelwyn/AICO_HomeLINK)](https://github.com/RogerSelwyn/AICO_HomeLINK/releases/latest)
 - Office 365 Integration for Home Assistant - [GitHub](https://github.com/RogerSelwyn/O365-HomeAssistant) - [Documentation](https://rogerselwyn.github.io/O365-HomeAssistant/) - [![GitHub release](https://img.shields.io/github/v/release/RogerSelwyn/O365-HomeAssistant)](https://github.com/RogerSelwyn/O365-HomeAssistant/releases/latest)
